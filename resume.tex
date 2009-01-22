@@ -2,6 +2,9 @@
 \usepackage[defblank]{paralist}
 \usepackage{pdfpages}
 \usepackage{blfootnote}
+\usepackage{hyperref}
+\usepackage{anysize}
+\marginsize{2.5mm}{35mm}{2.5mm}{1mm}
 \setdefaultitem{\tiny \textbullet}{}{}{}{}{}
 \setdefaultleftmargin{0em}{}{}{}{}{}
 \begin{document}
@@ -16,18 +19,23 @@
 		\item (863) 514-7014 \hfill blog.eatnumber1.com
 	\end{asparablank}
 
+\section{\mysidestyle Objective}
+	Obtain a three to six month co-op/internship that will serve to broaden my
+	horizons in the field of Computer Science.
+
 \section{\mysidestyle Education}
-		\begin{compactdesc}
-			\item[Rochester Institute of Technology] \hfill {\footnotesize 2006 - Present}
-			\begin{compactitem}
-				\item {\small Bachelors/Masters major in Computer Science}
-				\item {\small Music minor}
-			\end{compactitem}
-			\item[Herbert H. Lehman High School] - College Prep Program \hfill
-			{\footnotesize 2002 - 2006}
-			\item[Lehman College] - Course work in Q-Basic (age 12) \hfill
-			{\footnotesize September 2000 - December 2000}
-		\end{compactdesc}
+	\begin{compactdesc}
+		\item[Rochester Institute of Technology] \hfill {\footnotesize 2006 - Present}
+		\begin{compactitem}
+			\item {\small Major: Bachelors/Masters in Computer Science}
+			\item {\small Minor: Music}
+			\item {\small Expected graduation: 2012}
+		\end{compactitem}
+		\item[Herbert H. Lehman High School] - College Prep Program \hfill
+		{\footnotesize 2002 - 2006}
+		\item[Lehman College] - Course work in Q-Basic (age 12) \hfill
+		{\footnotesize September 2000 - December 2000}
+	\end{compactdesc}
 
 \section{\mysidestyle Experience}
 	\begin{compactdesc}
@@ -44,7 +52,7 @@
 		\begin{compactitem}
 			\item {\small Setup and maintain computer systems throughout Lehman
 			High School}
-			\item {\small Diagnose, repair, and maintain the network}
+			\item {\small Repair, and maintain the network}
 			\item {\small Diagnose and eliminate viruses and malware on the
 			school's network and computer systems}
 			\item {\small Audit the network for malicious activity}
@@ -64,13 +72,36 @@
 		\\* Apprentice (age 10)
 	\end{compactdesc}
 
+% HACK: Each toplevel \item here requires an escaped whitespace character in
+% order to force the item to appear on it's own line (since the text of the item
+% is the bullet, so the item has no text).
 \section{\mysidestyle Technical Skills}
-	\begin{asparablank}
-		\item UNIX/bash
-		\item Java
-		\item C/C++
-		\item PC troubleshooting and repair
-	 \end{asparablank}
+	\begin{compactdesc}
+		\item[Languages] \ 
+		\small
+		\begin{compactitem}
+			\item Java
+			\item C/C++
+			\item bash/sh and other ksh derived shell scripting languages
+			\item Python
+		\end{compactitem}
+		\normalsize
+		\item[Operating Systems] \ 
+		\small
+		\begin{compactitem}
+			\item Linux
+			\item Solaris
+		\end{compactitem}
+		\normalsize
+		\item[Hardware] \ 
+		\small
+		\begin{compactitem}
+			\item PC troubleshooting and repair
+			\item Networking
+			\item Network Security
+		\end{compactitem}
+		\normalsize
+	\end{compactdesc}
 
 \section{\mysidestyle Honors \& Awards}
 	\begin{asparablank}
