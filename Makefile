@@ -5,6 +5,7 @@ TEXFILES=resume.tex
 # Binaries
 POD2HTML=pod2html
 PDFLATEX=pdflatex
+POD2LATEX=pod2latex
 
 # Generated files
 HTMLFILES=$(PODFILES:.pod=.html)

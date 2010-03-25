@@ -62,4 +62,195 @@ Package Maintainer
 
 August 2007 - Present
 
+L<http://www.gentoo.org/>
+
 =back
+
+=head3 SafeNet Inc
+
+=over
+
+=item
+Belcamp, MD
+
+June 2008 - Present
+
+Engineering Contractor
+
+L<http://www.safenet-inc.com/>
+
+=back
+
+Worked on the SafeNet Management Console (SMC) on a team of 7. SMC is a web
+application built on I<Java>, I<JBoss>, I<Hibernate> and I<JSF> which manages
+high speed network encryption devices that SafeNet manufactures, including
+top-secret devices. Responsibilities included (a) creating requirements
+documents, (b) implementing requirements (IPv6, file synchronization), (c)
+testing and (d) fixing defects. Some of the specific tasks that were assigned
+while working there included transparent file synchronization between machines,
+implementing IPv6 support and implementing support for multiple SMC servers
+managing the same device (distributed devices).
+
+=head3 New York City Department of Education
+
+=over
+
+=item
+
+Bronx, NY
+
+September 2002 - June 2006
+
+IT Specialist
+
+L<http://schools.nyc.gov/>
+
+=back
+
+Worked at Lehman High School. The work there included (a) setup and maintain the
+computer systems, (b) repair and maintain the network, (c) diagnose and
+eliminate viruses and malware on the school's network and computer systems and
+(d) audit the network for malicious activity.
+
+=head2 Technical Skills & Certifications
+
+=over
+
+=item
+
+Languages
+
+=over
+
+=item
+
+Java, C/C++, BASH & other SH derived scripting languages, Python
+
+=back
+
+=item
+
+Operating Systems
+
+=over
+
+=item
+
+Linux (Gentoo, Debian, OpenWRT), Solaris, Windows, OSX
+
+=back
+
+=item
+
+Hardware
+
+=over
+
+=item
+
+Server Maintenance, Networking, Network Security
+
+=back
+
+=item
+
+Tools
+
+=over
+
+=item
+
+LaTeX, Microsoft Office, Vim, Idea, Regex, Autotools
+
+=back
+
+=item
+
+Certifications
+
+=over
+
+=item
+
+Cisco Academy, with honors (terms 1 and 2), A+, MOUS (Word)
+
+=back
+
+=back
+
+=head2 Extracurricular
+
+=over
+
+=item
+
+US FIRST Robotics Team 1230
+
+=over
+
+=item
+
+Lead programmer
+
+=item
+
+L<http://www.usfirst.org/>
+
+=back
+
+=item
+
+CSH - Computer Science House
+
+=over
+
+=item
+
+Network Administrator
+
+=item
+
+L<http://www.csh.rit.edu/>
+
+=back
+
+=item
+
+Rocking the Boat
+
+=over
+
+=item
+
+Built a boat for children from the South Bronx
+
+=item
+
+L<http://www.rockingtheboat.org/>
+
+=back
+
+=back
+
+=head2 Honors & Awards
+
+=over
+
+=item
+
+NYC Regional Robotics Award winner - 27th place nationally
+
+=item
+
+Visual Basic programming award for academic excellence 2005
+
+=back
+
+=head2 Special Accomplishments
+
+At age 8, built my first computer. At age 10, worked my first job at City Island
+Computer Services. At age 12, attended my first programming class at Lehman
+College.
+
+=for comment
+vim:tw=80
