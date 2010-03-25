@@ -1,0 +1,65 @@
+=head1 Russell E. Harmon
+
+=head2 Contact Information
+
+=over
+
+=item
+P.O. Box 92423
+
+=item
+Rochester, NY 14692
+
+=item
+L<russ@eatnumber1.com>
+
+=item
+L<http://blog.eatnumber1.com/>
+
+=back
+
+=head2 Objective
+
+I am looking for a three to six month co-op starting June.
+
+=head2 Summary
+
+I am a person who loves to tinker. I spend the majority of my free time working on personal projects. Some of the projects I have worked on include the Linux kernel and the Gentoo Linux distribution.  As a result, I've found that I have become very good at picking up new ideas quickly, and expanding what I already know with little more than the internet and a direction.
+
+=head2 Education
+
+=over
+
+=item Rochester Institute of Technology - Rochester, NY
+
+=item
+
+Major: B.S./M.S. Computer Science
+
+=item
+
+Masters GPA: 3.0
+
+=item
+
+Minor: Music
+
+=item
+
+Expected graduation: June 2012
+
+=back
+
+=head2 Experience
+
+=head3 Gentoo Linux
+
+=over
+
+=item
+
+Package Maintainer
+
+August 2007 - Present
+
+=back
