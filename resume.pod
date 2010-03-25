@@ -60,7 +60,11 @@ Expected graduation: June 2012
 
 Package Maintainer
 
+=item
+
 August 2007 - Present
+
+=item
 
 L<http://www.gentoo.org/>
 
@@ -71,11 +75,18 @@ L<http://www.gentoo.org/>
 =over
 
 =item
+
 Belcamp, MD
+
+=item
 
 June 2008 - Present
 
+=item
+
 Engineering Contractor
+
+=item
 
 L<http://www.safenet-inc.com/>
 
@@ -99,9 +110,15 @@ managing the same device (distributed devices).
 
 Bronx, NY
 
+=item
+
 September 2002 - June 2006
 
+=item
+
 IT Specialist
+
+=item
 
 L<http://schools.nyc.gov/>
 
