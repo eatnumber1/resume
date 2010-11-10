@@ -20,7 +20,7 @@ L<http://blog.eatnumber1.com/>
 
 =head2 Objective
 
-I am looking for a three to six month co-op starting June.
+I am looking for a three month internship to begin June.
 
 =head2 Summary
 
@@ -51,6 +51,31 @@ Expected graduation: June 2012
 =back
 
 =head2 Experience
+
+=head3 Apple Inc
+
+=over
+
+=item
+
+Engineering Intern
+
+=item
+
+6/1/2010 - 11/16/2010
+
+=item
+
+L<http://www.apple.com/>
+
+=back
+
+Worked on the ”Platform Kernel” team in the Core OS department at Apple. The
+majority of my work entailed work on I<libC>, and on I<XNU> (the OSX kernel). My two
+major projects were (a) migrating code out of the kernel into userspace to take
+advantage of I<ASLR> and (b) creation of an automated testing suite to test
+I<AICPM> which is used to decide what/when to switch P and C states for the processors
+installed on the system.
 
 =head3 Gentoo Linux
 
@@ -102,33 +127,6 @@ while working there included transparent file synchronization between machines,
 implementing IPv6 support and implementing support for multiple SMC servers
 managing the same device (distributed devices).
 
-=head3 New York City Department of Education
-
-=over
-
-=item
-
-Bronx, NY
-
-=item
-
-September 2002 - June 2006
-
-=item
-
-IT Specialist
-
-=item
-
-L<http://schools.nyc.gov/>
-
-=back
-
-Worked at Lehman High School. The work there included (a) setup and maintain the
-computer systems, (b) repair and maintain the network, (c) diagnose and
-eliminate viruses and malware on the school's network and computer systems and
-(d) audit the network for malicious activity.
-
 =head2 Technical Skills & Certifications
 
 =over
@@ -153,7 +151,7 @@ Operating Systems
 
 =item
 
-Linux (Gentoo, Debian, OpenWRT), Solaris, Windows, OSX
+Linux (Gentoo, Debian, OpenWRT), OSX, Solaris, Windows
 
 =back
 
@@ -177,7 +175,7 @@ Tools
 
 =item
 
-LaTeX, Microsoft Office, Vim, Idea, Regex, Autotools
+LaTeX, Regex, Autotools, CMake, Make
 
 =back
 
@@ -201,22 +199,6 @@ Cisco Academy, with honors (terms 1 and 2), A+, MOUS (Word)
 
 =item
 
-US FIRST Robotics Team 1230
-
-=over
-
-=item
-
-Lead programmer
-
-=item
-
-L<http://www.usfirst.org/>
-
-=back
-
-=item
-
 CSH - Computer Science House
 
 =over
@@ -228,6 +210,22 @@ Network Administrator
 =item
 
 L<http://www.csh.rit.edu/>
+
+=back
+
+=item
+
+US FIRST Robotics Team 1230
+
+=over
+
+=item
+
+Lead programmer
+
+=item
+
+L<http://www.usfirst.org/>
 
 =back
 
