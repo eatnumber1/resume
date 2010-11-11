@@ -70,12 +70,11 @@ L<http://www.apple.com/>
 
 =back
 
-Worked on the ”Platform Kernel” team in the Core OS department at Apple. The
+Worked on the "Platform Kernel" team in the Core OS department at Apple. The
 majority of my work entailed work on I<libC>, and on I<XNU> (the OSX kernel). My two
 major projects were (a) migrating code out of the kernel into userspace to take
-advantage of I<ASLR> and (b) creation of an automated testing suite to test
-I<AICPM> which is used to decide what/when to switch P and C states for the processors
-installed on the system.
+advantage of I<ASLR> and (b) creation of an automated testing suite to test OS
+10.7's power management on Intel processors.
 
 =head3 Gentoo Linux
 
