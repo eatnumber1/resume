@@ -14,7 +14,7 @@ Rochester, NY 14692
 L<russ@eatnumber1.com>
 
 =item
-L<http://blog.eatnumber1.com/>
+L<http://eatnumber1.com/>
 
 =back
 
@@ -46,7 +46,7 @@ Minor: Music
 
 =item
 
-Expected graduation: June 2012
+Expected graduation: December 2012
 
 =back
 
@@ -132,13 +132,13 @@ managing the same device (distributed devices).
 
 =item
 
-Languages
+Fluent Languages
 
 =over
 
 =item
 
-Java, C/C++, BASH & other SH derived scripting languages, Python
+C, Java, ZSH, BASH
 
 =back
 
@@ -150,21 +150,33 @@ Operating Systems
 
 =item
 
-Linux (Gentoo, Debian, OpenWRT), OSX, Solaris, Windows
+Linux (programming & administration), OSX (kernel programming)
 
 =back
 
 =item
 
-Hardware
+Server Administration
 
 =over
 
 =item
 
-Server Maintenance, Networking, Network Security
+LDAP, Kerberos, BIND, DHCPD, MediaWiki, Apache
 
 =back
+
+=item
+
+Networking
+
+=item
+
+TCP/UDP, IPv4, IPv6, DNS, DHCP, IPSec, SSL, X.509
+
+=back
+
+=over
 
 =item
 
@@ -174,7 +186,7 @@ Tools
 
 =item
 
-LaTeX, Regex, Autotools, CMake, Make
+Make, Autotools, CMake, LLVM, Regex, LaTeX
 
 =back
 
@@ -186,7 +198,7 @@ Certifications
 
 =item
 
-Cisco Academy, with honors (terms 1 and 2), A+, MOUS (Word)
+Cisco Academy, with honors (terms 1 and 2), A+
 
 =back
 
