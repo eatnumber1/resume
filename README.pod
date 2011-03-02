@@ -11,10 +11,10 @@ P.O. Box 92423
 Rochester, NY 14692
 
 =item
-L<russ@eatnumber1.com>
+L<russell@harmon.name>
 
 =item
-L<http://eatnumber1.com/>
+L<http://russell.harmon.name/>
 
 =back
 
