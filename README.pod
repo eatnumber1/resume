@@ -72,8 +72,8 @@ L<http://micorosft.com/>
 
 Worked on the "Sustained Engineering" team on the Application Virtualization
 product. The sustained engineering team maintains the released version of App-V.
-Written in I<C++>, I worked on an important feature for the next version of
-App-V and Office.
+Written in I<C++>, I worked on an as of yet unreleased feature for the App-V and
+Office products.
 
 =head3 Apple Inc
 
