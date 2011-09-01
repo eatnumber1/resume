@@ -52,6 +52,29 @@ Expected graduation: December 2012
 
 =head2 Experience
 
+=head3 Microsoft
+
+=over
+
+=item
+
+Software Development Engineering Intern
+
+=item
+
+6/6/2011 - 8/26/2011
+
+=item
+
+L<http://micorosft.com/>
+
+=back
+
+Worked on the "Sustained Engineering" team on the Application Virtualization
+product. The sustained engineering team maintains the released version of App-V.
+Written in I<C++>, I worked on an important feature for the next version of
+App-V and Office.
+
 =head3 Apple Inc
 
 =over
