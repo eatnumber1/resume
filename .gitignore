@@ -4,3 +4,4 @@
 *.synctex.gz
 *.log
 resume.txt
+.DS_Store
